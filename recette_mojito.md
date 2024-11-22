@@ -23,3 +23,10 @@
 - 5 citrons verts
 - 200 cl d'eau gazeuse
 - 50 glaçons
+
+# Recette de Mojito sans alcool (pour celles et/ou ceux qui ont un estomac pas ouf)
+- 2 cl de sirop de sucre de canne
+- 6 feuilles de menthe
+- 0,5 citron vert
+- 20 cl d'eau gazeuse
+- 5 glaçons
