@@ -15,3 +15,11 @@
 - 1 citron vert
 - 40 cl d'eau gazeuse
 - 10 glaçons
+
+# Pour 10 personnes (pour encore plus de fun !) :
+- 40 cl de rhum blanc
+- 20 cl de sirop de sucre de canne
+- 60 feuilles de menthe
+- 5 citrons verts
+- 200 cl d'eau gazeuse
+- 50 glaçons
