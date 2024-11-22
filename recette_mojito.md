@@ -30,3 +30,10 @@
 - 0,5 citron vert
 - 20 cl d'eau gazeuse
 - 5 glaçons
+
+# Recette de Mojito sans alcool et sans eau gazeuse
+- 2 cl de sirop de sucre de canne
+- 6 feuilles de menthe
+- 0,5 citron vert
+- 20 cl d'eau plate
+- 5 glaçons
